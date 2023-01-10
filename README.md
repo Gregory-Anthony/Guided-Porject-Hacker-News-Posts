@@ -1,4 +1,4 @@
-# Guided-Porject-Hacker-News-Posts
+# Guided-Project-Hacker-News-Posts
 Analysing Hacker News Posts
 In this project, the two different post types from Hacker News, are analysed.
 These are Ask HN and Show HN.
